@@ -1,1 +1,2 @@
-# Mechanism-of-Action-Prediction
+# Mechanism of Action Prediction
+Authored by Matthew Masters

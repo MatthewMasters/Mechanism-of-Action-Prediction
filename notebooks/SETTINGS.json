@@ -1,0 +1,8 @@
+{
+  "RAW_DATA_DIR": "../data/",
+  "TRAIN_FEATURES_PATH": "../data/train_features.csv",
+  "TRAIN_TARGETS_PATH": "../data/train_targets_scored.csv",
+  "TEST_FEATURES_PATH": "../data/test_features.csv",
+  "PROJECTS_DIR": "../projects/",
+  "LOGS_DIR": "../logs/"
+}
